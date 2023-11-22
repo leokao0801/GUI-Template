@@ -7,8 +7,6 @@ Part 1: Changing File Structue from Teacher's Template to p5.js
 Part 2: Adding GUI Component
 And...if you don't want to understand all the detail is totally fine, you can just skip Part 1 and start from Part 2.
 
-So, let's begin! Enjoy :)
-
 // -------------------------------------------------- //
 
 Part 1: Changing File Structue from Teacher's Template to p5.js
