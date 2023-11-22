@@ -34,7 +34,7 @@ Step 2: index.html <head>
             !MODIFY!
 
             <script src="/fileLocation/fileName.js"></script>
-	        <link rel="stylesheet" type="text/css" href="/fileLocation/fileName.css">
+	    <link rel="stylesheet" type="text/css" href="/fileLocation/fileName.css">
         
         index.html <body>
         2.3 Remove Code Below
