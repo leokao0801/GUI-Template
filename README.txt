@@ -47,7 +47,7 @@ Step 4: Load vert.glsl and .frag in the Canvas Created in .js to Create Shader
 
         !MODIFY!
 
-        (There is a lot of steps to make this happen, but the code you only have to care and modify is below.)
+        (There is a lot of steps needed to make this happen, but the code you only have to care and modify is below.)
 
         function preload(){
 	        theShader = loadShader('/fileLocation/vert.glsl', '/fileLocation/fileName.frag');
