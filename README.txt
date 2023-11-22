@@ -94,7 +94,7 @@ Step 2: .js
                 gui.add(componentName, 'variable01Name', lowerBound, upperBound).name("GUI01Name");
 
                 let folderName = gui.addFolder("GUIFolderName");
-                folderName.addColor(control, 'variable02Name').name("GUI02Name");
+                folderName.addColor(componentName, 'variable02Name').name("GUI02Name");
                 ...
             };
 
@@ -106,4 +106,4 @@ Step 2: .js
 
             theShader.setUniform("u_variableName01", componentName.variable01Name);
 
-And then you can use u_variableName01 in .frag!
+And now you can use u_variableName01 in .frag!
