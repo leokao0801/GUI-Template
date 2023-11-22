@@ -26,7 +26,6 @@ Step 2: index.html <head>
         2.1 Include Library: Add Code Below
 
             <script src="https://cdnjs.cloudflare.com/ajax/libs/dat-gui/0.7.9/dat.gui.min.js"></script>
-            <script src="https://openprocessing.org/openprocessing_sketch.js"></script>
             <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.1/p5.js"></script>
 
         2.2 Call .js and .css : Add Code Below
