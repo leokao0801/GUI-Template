@@ -17,7 +17,7 @@ The structure of p5.js is just like a web, that means we need not only .html but
 After building a p5.js structure, we got to include some libraries while calling .js and .css in .html.
 Now, .frag is no more needed in .html, instead, the shader is created by loading .frag and vert.glsl in a canvas created in .js.
 
-Most of steps in Part 1 is done in exampple file.
+Most of steps in Part 1 is done in example file.
 You can see the content below as a code explanation, and when there is a "!MODIFY!" text in the step, it means you nedd to modify the code by your own (obviously).
 
 Step 1: Create .js and .css
