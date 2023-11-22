@@ -1,7 +1,6 @@
 const PIXEL_DENSITY = 2;
 let theShader;
 let canvas;
-let f;
 
 // Part 2 - Step 2.1
 // from here
@@ -29,9 +28,6 @@ window.onload = function() {
 // from here
 function preload(){
 	theShader = loadShader('vert.glsl', 'frag.frag');
-	f = loadFont(
-    "https://cdnjs.cloudflare.com/ajax/libs/topcoat/0.8.0/font/SourceCodePro-Bold.otf"
-  	);
 }
 // to here
 
