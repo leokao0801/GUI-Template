@@ -18,7 +18,7 @@ After building a p5.js structure, we got to include some libraries while calling
 Now, .frag is no more needed in .html, instead, the shader is created by loading .frag and vert.glsl in a canvas created in .js.
 
 Most of steps in Part 1 is done in example file.
-You can see the content below as a code explanation, and when there is a "!MODIFY!" text in the step, it means you nedd to modify the code by your own (obviously).
+You can see the content below as a code explanation, and when there is a "!MODIFY!" text in the step, it means you nedd to modify the code by your own.
 
 Step 1: Create .js and .css
 
@@ -61,7 +61,7 @@ Part 2 contains two stages:
 1. Dynimically chaging variebles through GUI component.
 2. Passing variables value from .js to .frag.
 
-When there is a "!MODIFY!" text in the step, it means you nedd to modify the code by your own (obviously).
+When there is a "!MODIFY!" text in the step, it means you nedd to modify the code by your own.
 
 Step 1: .frag
         Set Variable: Add Code Below
